@@ -13,7 +13,6 @@ Strong understanding of architecture, state management, API integration, and pro
 I do not just build UI. I build complete, working products.
 
 Core Expertise
-
 Mobile Development
 
 Flutter
@@ -91,6 +90,8 @@ Ship products that work in production
 
 Contact
 
-GitHub: github.com/sapansingh007
+GitHub: https://github.com/sapansingh007
+
 LinkedIn: https://www.linkedin.com/in/sapansingh02/
+
 Email: workwithsapan2@gmail.com
