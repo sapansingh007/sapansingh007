@@ -1,7 +1,3 @@
-Good. Premium means clean, confident, minimal noise, strong positioning.
-
-Copy this into your sapansingh007/README.md.
-
 <div align="center">
 Sapan Singh
 Flutter Developer | Mobile Application Specialist
