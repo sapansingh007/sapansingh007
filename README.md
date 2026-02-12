@@ -5,14 +5,14 @@ Flutter Developer | Mobile Application Specialist
 Building scalable, high-performance mobile applications with clean architecture and production standards.
 
 </div>
-Profile
+<h2><b>Profile</b></h2>
 
 I design and develop structured, maintainable Flutter applications focused on performance, usability, and long-term scalability.
 Strong understanding of architecture, state management, API integration, and production deployment.
 
 I do not just build UI. I build complete, working products.
 
-Core Expertise
+<h2><b>Core Expertise</b></h2>
 Mobile Development
 
 Flutter
@@ -59,7 +59,7 @@ Android Studio
 
 VS Code
 
-Selected Work
+<h2><b>Selected Work</b></h2>
 Personal Finance Application
 
 Structured finance tracker with theme support, clean architecture, and reactive state management.
@@ -76,7 +76,7 @@ Social Interaction Platform
 
 Authentication-based community application with real-time features and chat system.
 
-Development Philosophy
+<h2><b>Development Philosophy</b></h2>
 
 Clean code over quick hacks
 
@@ -88,7 +88,7 @@ Maintainability is non-negotiable
 
 Ship products that work in production
 
-Contact
+<h2><b>Contact</b></h2>
 
 GitHub: https://github.com/sapansingh007
 
